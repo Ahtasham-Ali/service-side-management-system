@@ -1,0 +1,18 @@
+
+# Melody-Premium-Bootstrap-Admin-Dashboard-Template
+
+## Folders
+- admin-side (Admin Panel)
+- vaultedge-1.0.0 (User Panel)
+- uploads (Uploaded Images)
+
+## Database
+Import database.sql in phpMyAdmin
+
+## How to Run
+1. Put folder in htdocs
+2. Import database.sql
+3. Open localhost/admin or localhost/user
+
+## Developer Name
+ Ahtasham Ali
